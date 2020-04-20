@@ -1,1 +1,9 @@
-
+Linki do zadań ze statusem DONE: 8 zadań każde za 5 punktów: Ilość punktów na koniec projektu 40 punktów.
+https://projects.kodilla.com/browse/JDP200302-4
+https://projects.kodilla.com/browse/JDP200302-6
+https://projects.kodilla.com/browse/JDP200302-14
+https://projects.kodilla.com/browse/JDP200302-18
+https://projects.kodilla.com/browse/JDP200302-19
+https://projects.kodilla.com/browse/JDP200302-23
+https://projects.kodilla.com/browse/JDP200302-36
+https://projects.kodilla.com/browse/JDP200302-40
