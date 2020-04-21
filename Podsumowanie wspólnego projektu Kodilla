@@ -5,13 +5,14 @@ W prjekcie brało udział 5 osób. Czas trwania projektu to 4 tygodnie. Zadaniem
 Jak była zorganizowana komunikacja w zespole i podział zadań na poszczególne osoby?
 Praca w zespole była zorganizowana w systemie Kanban w najpopularniejszym systemie zarządzania projektami Jira.
 Każdy z uczestników projektu przypiswyał do siebie zadania w systemie i je kolejno realizował.
-Projekt był tworzony na zdalnym repzytorium Github. Uczestniczy komunikowali się przez wewnętrzy koumikator w projekcie i prez hangout.
+Projekt był tworzony na zdalnym repzytorium Github. Uczestniczy komunikowali się przez wewnętrzy koumikator w projekcie i przez hangout.
 
 W jaki sposób dbaliście o jakość i spójność wynikowego kodu projektu ?
 Wspólnie ustatliśmy zasady jaki będziemy się kierować w projekcie żeby nadać spójonść kodwi wynikowemu. 
 Uczestnicy projektu robili sobie na wzajem review kodu na GitHub i w ten sposób jakość naszego projektu się polepszała.
 Podatkow PM projektu robił kolejene review każde zadania i dodawał swoje komentarze.
-Każde zadanie (część pisanego kodu) było testowane przez osobą która tego kodu nie pisał/pisała, 
+Każde zadanie było testowane przez kolegę z zespołu.
+Istotne było to by osoba pisząca kod nie była tą samą osobą która wykonuje test kodu. 
 co pozwalało wykryć ewentualne bęłdy w kodzie i poprawić jakość projektu we wczesnym etapie.
 
 Co było największym problemem w pracy zespołowej i jak sobie z tym poradziliście ?
@@ -25,7 +26,7 @@ Poza tym każdy w projekcie uczył się od drugiej osoby i dzielił swoim doświ
 
 Co było dla Ciebie największym wyzwaniem ?
 Na początku największym wyzwaniem była praca ze zdalnym repozytorium w grupie. 
-Kiedy członkowie zespołu na wzajem komitują swoje zmiany
+Kiedy członkowie zespołu na wzajem komitują swoje zmiany w kodzie.
 
 Gdybyś zaczynał projekt od zera, co byś poprawił lub zrobił inaczej ?
 Na pewno wczęśniej objerzałabym tutoriale dotyczące GitHuba.
