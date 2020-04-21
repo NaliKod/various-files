@@ -4,15 +4,15 @@ W prjekcie brało udział 5 osób. Czas trwania projektu to 4 tygodnie. Zadaniem
 
 Jak była zorganizowana komunikacja w zespole i podział zadań na poszczególne osoby?
 Praca w zespole była zorganizowana w systemie Kanban w najpopularniejszym systemie zarządzania projektami Jira.
-Każdy z uczestników projektu przypiswyał do siebie zadania w systemie i je kolejno realizował.
+Każdy z uczestników projektu przypisywał do siebie zadania w systemie i je kolejno realizował.
 Projekt był tworzony na zdalnym repzytorium Github. Uczestniczy komunikowali się przez wewnętrzy koumikator w projekcie i przez hangout.
 
 W jaki sposób dbaliście o jakość i spójność wynikowego kodu projektu ?
 Wspólnie ustatliśmy zasady jaki będziemy się kierować w projekcie żeby nadać spójonść kodwi wynikowemu. 
 Uczestnicy projektu robili sobie na wzajem review kodu na GitHub i w ten sposób jakość naszego projektu się polepszała.
-Podatkow PM projektu robił kolejene review każde zadania i dodawał swoje komentarze.
+Podatkow PM projektu robił kolejene review każde zadania i dodawał swoje komentarze. Wspierał nas swoim doświadczeniem.
 Każde zadanie było testowane przez kolegę z zespołu.
-Istotne było to by osoba pisząca kod nie była tą samą osobą która wykonuje test kodu. 
+Istotne było to by osoba pisząca kod nie była tą samą osobą która wykonuje test kodu, 
 co pozwalało wykryć ewentualne bęłdy w kodzie i poprawić jakość projektu we wczesnym etapie.
 
 Co było największym problemem w pracy zespołowej i jak sobie z tym poradziliście ?
@@ -21,7 +21,7 @@ Problem był na początku projektu brak osoby doświdczonej w tworzeniu takich a
 Jakie widzisz korzyści z pracy zespołowej w tym projekcie ?
 Każdy uczestnik projektu posiadał inne umiejętność, spojrzenie na projekt dzięki czemu wspólna współpraca była ciekawa.
 Każdy uczestnik był zmotywowany i chciał pogłebiać swoją więdzę. 
-Myślę że dobrze pracuje się w grupie w której uczestnicy są ambitni i wykazują cheć rozwoju. 
+Myślę,że dobrze pracuje się w grupie w której uczestnicy są ambitni i wykazują chęć rozwoju. 
 Poza tym każdy w projekcie uczył się od drugiej osoby i dzielił swoim doświdczeniem.
 
 Co było dla Ciebie największym wyzwaniem ?
